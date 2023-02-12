@@ -4,7 +4,7 @@
 package com.greatlearning.dst.transactions.bst;
 
 /**
- * @author G3-DigvijayThakur
+ * @author G3-DigvijayThakur,Somya Raghav,gauri
  *
  */
 public class Node {
