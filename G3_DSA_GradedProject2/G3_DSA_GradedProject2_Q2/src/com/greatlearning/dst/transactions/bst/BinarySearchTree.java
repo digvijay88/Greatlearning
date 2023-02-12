@@ -4,7 +4,7 @@
 package com.greatlearning.dst.transactions.bst;
 
 /**
- * @author G3-Digvijaythakur
+ * @author G3-Digvijaythakur,Somya raghav, gauri
  *
  */
 public class BinarySearchTree {
